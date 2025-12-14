@@ -1,0 +1,3 @@
+I created this file in github but i want it to be on my lap to work on my project in VS code. 
+  What can i do? If i clone it the whole repo gets cloned and i just need this one file right?
+  so seems like that is why there is a command called "git pull"
